@@ -209,7 +209,7 @@ display: flex;
     font-size: 1.5rem;
 }
 .img6{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 5.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 11.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -222,7 +222,7 @@ display: flex;
     grid-row: 1;
 }
 .img7{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 8.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 10.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
