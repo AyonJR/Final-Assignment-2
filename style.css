@@ -545,7 +545,8 @@ display: flex;
 }
 
 .btn:hover {
-    background-color: #333;
+    background-color: #ddd;
+    color: #5A5A5D;
 }
 
 
@@ -586,6 +587,10 @@ display: flex;
     }
     .list{
         margin-right: 20px;
+    }
+    .hidden{
+        position: absolute;
+        right: -10px;
     }
 
 .banner{
