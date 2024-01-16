@@ -56,7 +56,7 @@ ul li {
 }
 
 .banner2 {
-    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('/B9A2-Hero-Travel/Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('./Images/Group\ 13\ \(1\)\ \(1\).png');
     height: 4;
     background-repeat: none;
     background-size: cover;
@@ -65,6 +65,7 @@ ul li {
     color: white;
     text-align: center;
     padding-top: 60px;
+    height: 500px;
 }
 
  .box{
@@ -140,7 +141,7 @@ button img {
 
 
  .img1{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 5.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 5.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -153,7 +154,7 @@ button img {
     grid-row: 1;
 }
 .img2{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 8.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 8.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -167,7 +168,7 @@ button img {
 }
 
 .img3{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 6.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 6.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -180,7 +181,7 @@ button img {
     grid-row: 2;
 }
 .img4{ 
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 7.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 7.png');
 background-repeat: no-repeat;
 background-size: cover;
 height: 300px;
@@ -196,7 +197,7 @@ display: flex;
 
 }
 .img5{ 
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 9.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 9.png');
 background-repeat: no-repeat;
 background-size: cover;
 height: 300px;
@@ -208,7 +209,7 @@ display: flex;
     font-size: 1.5rem;
 }
 .img6{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 5.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 5.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -221,7 +222,7 @@ display: flex;
     grid-row: 1;
 }
 .img7{
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./B9A2-Hero-Travel/Images/Rectangle\ 8.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),url('./Images/Rectangle\ 8.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -324,7 +325,7 @@ display: flex;
     
 }
 .first-back{
-    background-image: url('./B9A2-Hero-Travel/Images/Group\ 39.png');
+    background-image: url('./Images/Group\ 39.png');
     height: 500px;
     margin: 20px 50px;
     border-radius: 16px;
@@ -389,7 +390,7 @@ display: flex;
 
 
 .second-back{
-    background-image: url('./B9A2-Hero-Travel/Images/Group\ 40.png');
+    background-image: url('./Images/Group\ 40.png');
     height: 500px;
     margin: 20px 50px;
     border-radius: 16px;
