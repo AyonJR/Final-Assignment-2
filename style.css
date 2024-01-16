@@ -469,14 +469,14 @@ display: flex;
 }
 
 .main-form input{
-    width: 400px ;
+    width: 80% ;
     margin-bottom: 10px;
     border-radius: 8px;
    background-color: rgba(19, 19, 24, 0.05);
    height: 46px;
 }
 .form-button{
-    width: 400px;
+    width: 80%;
     height: 46px;
     border-radius: 8px;
     background-color: #FF5400;
@@ -697,7 +697,7 @@ display: flex;
     width: 300px;
 }
 .main-form{
-    width: 300px;
+    width: 260px;
 }
 .save{
 
